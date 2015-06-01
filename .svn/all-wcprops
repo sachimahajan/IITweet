@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/132/trunk
+END
+styleSheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/59/trunk/styleSheet.h
+END
+twitterbackendinterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/51/trunk/twitterbackendinterface.h
+END
+lineedit.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/63/trunk/lineedit.h
+END
+sendTwitDerived.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/85/trunk/sendTwitDerived.cpp
+END
+sendTwitDerived.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/44/trunk/sendTwitDerived.h
+END
+loginDerived.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/36/trunk/loginDerived.cpp
+END
+TwitterAPI
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/16/trunk/TwitterAPI
+END
+mainWindowDerived.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/68/trunk/mainWindowDerived.cpp
+END
+loginDerived.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/30/trunk/loginDerived.h
+END
+mainWindowDerived.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/68/trunk/mainWindowDerived.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/89/trunk/main.cpp
+END
+qttwitter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/132/trunk/qttwitter.pro
+END
+blog.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/91/trunk/blog.h
+END
+derivedconfigdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/91/trunk/derivedconfigdialog.cpp
+END
+twitterbackendinterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/104/trunk/twitterbackendinterface.cpp
+END
+lineedit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/63/trunk/lineedit.cpp
+END
+derivedconfigdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/89/trunk/derivedconfigdialog.h
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/22/trunk/twitlib
+END
+QTwitLib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/18/trunk/twitlib/QTwitLib.cpp
+END
+ITwitReply.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/17/trunk/twitlib/ITwitReply.h
+END
+Decipher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/22/trunk/twitlib/Decipher.cpp
+END
+QTwitLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/18/trunk/twitlib/QTwitLib.h
+END
+Core.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/22/trunk/twitlib/Core.cpp
+END
+Decipher.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/22/trunk/twitlib/Decipher.h
+END
+Server.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/18/trunk/twitlib/Server.h
+END
+Returnables.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/22/trunk/twitlib/Returnables.h
+END
+Core.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/18/trunk/twitlib/Core.h
+END

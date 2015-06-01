@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/91/trunk/Ui
+END
+config.ui
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/91/trunk/Ui/config.ui
+END
+imageBrowser.ui
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/16/trunk/Ui/imageBrowser.ui
+END
+login.ui
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/60/trunk/Ui/login.ui
+END
+mainWindow.ui
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/89/trunk/Ui/mainWindow.ui
+END
+sendTwit.ui
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/60/trunk/Ui/sendTwit.ui
+END
